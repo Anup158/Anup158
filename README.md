@@ -1,21 +1,189 @@
-# 💫 About Me:
-Motivated Computer Engineering student with a strong foundation in Java, MERN stack development, databases, and core<br>programming concepts. Skilled in building responsive web applications, working with APIs, and using modern development<br>tools. Quick learner with good problem-solving abilities, hands-on experience through structured training, and a strong<br>interest in full-stack, backend, and cloud-based technologies.
+# 👋 Hi there! I'm Anup Jagtap
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anup___jagtap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anup-jagtap-76479725b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagtapanup158@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anup158&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anup158&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup158&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anup158&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;Computer+Engineering+Student;Building+Real-World+Apps;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anup158&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20Maharashtra-red?style=for-the-badge&logo=map" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building%20&%20Learning-blue?style=for-the-badge&logo=codeigniter" />
+  <img src="https://img.shields.io/badge/Passion-Full%20Stack%20Development-green?style=for-the-badge&logo=webdev" />
+</div>
+
+I'm a dedicated Computer Engineering student with a strong passion for full stack development and building real-world applications. My journey in tech is driven by curiosity and a desire to create impactful solutions. I love diving deep into new technologies, solving complex problems, and contributing to projects that make a difference. Currently based in Pune, Maharashtra, I'm always on the lookout for exciting challenges and opportunities to learn and grow.
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Working on: **Scalable MERN stack applications & Java Fullstack applications** <!-- TODO: Add your current main project -->
+- 🌱 Learning: **Advanced Cloud Architectures (AWS)** <!-- TODO: Add what you're currently learning -->
+- 👯 Looking to collaborate on: **Open Source Web Projects**
+- 💬 Ask me about: **React, Node.js, Database Design, API Development** <!-- TODO: Add your areas of expertise -->
+<!-- TODO: Add a fun fact -->
+
+---
+
+## 🛠️ Technology Ecosystem
+
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<!-- TODO: Add/remove languages based on your actual skills -->
+
+### 🚀 Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<!-- TODO: Add your actual frameworks -->
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- TODO: Add your cloud/devops tools -->
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- TODO: Add your databases -->
+
+---
+
+## 📊 Advanced GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anup158&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup158&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anup158&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+</p>
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anup158&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anup158&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/Anup158" alt="Contribution Calendar" width="100%"/>
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!-- TODO: Set up GitHub Actions to auto-update this section -->
+<!--END_SECTION:activity-->
+
+---
+
+## 🏗️ Project Showcase
+
+<div align="center">
+
+###  [🤖 Attendance System using Face Recognition](https://github.com/Anup158/Attendance-using-face-recognition) <!-- TODO: Replace with actual project -->
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Anup158&repo=ecommerce-mern-stack&theme=tokyonight)](https://github.com/Anup158/Attendance-using-face-recognition)
+
+**Tech Stack:
+Core Technologies:Python
+Libraries:OpenCV, NumPy
+ Data Storage:CSV Files**
+**Status:** 🚀 Completed | ⭐ 15+ Stars | 🍴 5+ Forks
+
+
+---
+
+### 🔥 [🚀 Cyber-multi](https://github.com/Anup158/Cyber-multi) <!-- TODO: Replace with actual project -->
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Anup158&repo=task-manager-api&theme=tokyonight)](https://github.com/Anup158/task-manager-api)
+
+**Tech Stack:**
+ Frontend: React, TypeScript, Vite, Tailwind CSS, PostCSS
+Backend: Node.js, TypeScript, Express.js
+Database: PostgreSQL
+
+
+**Status:** ✅ Complete | ⭐ 10+ Stars | 🍴 3+ Forks
+
+
+---
+
+### ⚡ [ Flexifun: Game Based Learning and Therapy Platform for Autistic Children - Using AIML](https://github.com/Anup158/Flexifun_ATG) <!-- TODO: Replace with actual project -->
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Anup158&repo=my-developer-portfolio&theme=tokyonight)](https://github.com/Anup158/my-developer-portfolio)
+
+**Tech Stack:** Frontend: React, Vite, TypeScript, Tailwind CSS
+Backend: Node.js, Express.js, TypeScript, Socket.io, JWT
+Database: MongoDB
+Games: JS Components, C# (Unity 2d)
+DevOps & Tools: PNPM, Netlify, Docker
+
+🚀 Quick Start
+**Status:** 🚀 Developing | ⭐ 7+ Stars | 🍴 2+ Forks
+
+</div>
+
+---
+
+## 🎓 Certifications & Achievements
+- 🏆 **AWS Certified Cloud Practitioner** (Planned)
+- 📜 **Full Stack Web Development Certificate** 
+- 🥇 **MERN Stack certification**
+- 📊 **Hands-on Experience in basic Manual Testing & Deployment**
+
+
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup-jagtap-76479725b)
+
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagtapanup158@gmail.com) <!-- TODO: Add your email -->
+
+### 📱 Social Presence
+
+[![GitHub followers](https://img.shields.io/github/followers/Anup158?style=social)](https://github.com/Anup158)
+
+</div>
+
+
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anup158&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+
+  ### 🚀 "Code is poetry, and every commit tells a story"
+
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+</div>
+
