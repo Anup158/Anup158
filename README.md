@@ -12,7 +12,10 @@
   <img src="https://img.shields.io/badge/Passion-Full%20Stack%20Development-green?style=for-the-badge&logo=webdev" />
 </div>
 
-I'm a dedicated Computer Engineering student with a strong passion for full stack development and building real-world applications. My journey in tech is driven by curiosity and a desire to create impactful solutions. I love diving deep into new technologies, solving complex problems, and contributing to projects that make a difference. Currently based in Pune, Maharashtra, I'm always on the lookout for exciting challenges and opportunities to learn and grow.
+Computer Engineering graduate with hands-on experience in Java, Spring Boot, React.js, Node.js, MongoDB, MySQL,
+Docker, and AWS EC2. Built multiple full-stack applications and REST APIs with strong knowledge of OOP, SQL and
+Software Engineering principles. Seeking a Java Full Stack Developer role to apply my skills in building scalable applications
+and contribute effectively to software development teams.
 
 ---
 
