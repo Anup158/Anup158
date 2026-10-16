@@ -139,7 +139,7 @@ Personal portfolio showcasing projects, skills and experience.
 # 💼 Experience
 
 ### 🏢 IT Engineer (Desktop & Systems Operations) • Hitachi Vantara
-*Present*
+*(Aug 2026 – present)*
 * Managing enterprise endpoint infrastructure, networking, and identity management across internal teams.
 * Automating recurring operational and administrative workflows using scripts to improve efficiency.
 * Administering Microsoft Entra ID (Azure AD), access permissions, and system compliance standards.
