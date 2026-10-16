@@ -157,6 +157,7 @@ Personal portfolio showcasing projects, skills and experience.
 # 📜 Certifications & Achievements
 
 - ✅ Full Stack Java Certification – Profound Edutech
+- ✅ Full Stack Java Development Certification – Excelr 
 - ✅ Generative AI & AI/ML Fundamentals – TNS Foundation India
 - 📄 Research Paper Published (IJTSRD – 2025)
 - 🏅 Letter of Appreciation for Academic Excellence
