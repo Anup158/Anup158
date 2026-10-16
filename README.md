@@ -136,6 +136,24 @@ Personal portfolio showcasing projects, skills and experience.
 
 ---
 
+# 💼 Experience
+
+### 🏢 IT Engineer (Desktop & Systems Operations) • Hitachi Vantara
+*Present*
+* Managing enterprise endpoint infrastructure, networking, and identity management across internal teams.
+* Automating recurring operational and administrative workflows using scripts to improve efficiency.
+* Administering Microsoft Entra ID (Azure AD), access permissions, and system compliance standards.
+
+### 💻 Full Stack Java Trainee • Tech9 Solution
+*(Sep 2024 – Mar 2025)*
+* Built and optimized RESTful APIs using Java and Spring Boot following clean MVC architecture.
+* Developed responsive frontend user interfaces in React.js and integrated them with backend microservices.
+* Managed relational and NoSQL databases using MySQL, MongoDB, and tested APIs via Postman.
+
+---
+
+
+
 # 📜 Certifications & Achievements
 
 - ✅ Full Stack Java Certification – Profound Edutech
